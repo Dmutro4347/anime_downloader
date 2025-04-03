@@ -1,2 +1,2 @@
 # anime_downloader
-script to download anime from anitube in ua
+simple script to download anime from anitube in ua
